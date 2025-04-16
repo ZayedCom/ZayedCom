@@ -5,7 +5,7 @@
 <table width="100%" align="center" border=none>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ZayedCom&hide_border=true&show_icons=true&theme=transparent&title_color=007bff&text_color=#6c757d" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ZayedCom&hide_border=true&hide=border,issues&show_icons=true&include_all_commits=true&show=prs_merged_percentage&rank_icon=github&theme=transparent&title_color=007bff&text_color=#6c757d" alt="GitHub Stats" />
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayedCom&hide_border=true&layout=compact&theme=transparent&title_color=007bff&text_color=#6c757d" alt="Top Languages" />
